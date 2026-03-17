@@ -1,0 +1,5 @@
+/home/leaonid/pico/bitdoglab_wifi_v2/build/pioasm-install/pioasm/pioasm
+/home/leaonid/pico/bitdoglab_wifi_v2/build/pioasm-install/pioasm/pioasmTargets.cmake
+/home/leaonid/pico/bitdoglab_wifi_v2/build/pioasm-install/pioasm/pioasmTargets-release.cmake
+/home/leaonid/pico/bitdoglab_wifi_v2/build/pioasm-install/pioasm/pioasmConfig.cmake
+/home/leaonid/pico/bitdoglab_wifi_v2/build/pioasm-install/pioasm/pioasmConfigVersion.cmake

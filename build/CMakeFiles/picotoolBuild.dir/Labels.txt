@@ -1,0 +1,14 @@
+# Target labels
+ picotoolBuild
+# Source files and their labels
+/home/leaonid/pico/bitdoglab_wifi_v2/build/CMakeFiles/picotoolBuild
+/home/leaonid/pico/bitdoglab_wifi_v2/build/CMakeFiles/picotoolBuild.rule
+/home/leaonid/pico/bitdoglab_wifi_v2/build/CMakeFiles/picotoolBuild-complete.rule
+/home/leaonid/pico/bitdoglab_wifi_v2/build/picotool/src/picotoolBuild-stamp/picotoolBuild-build.rule
+/home/leaonid/pico/bitdoglab_wifi_v2/build/picotool/src/picotoolBuild-stamp/picotoolBuild-configure.rule
+/home/leaonid/pico/bitdoglab_wifi_v2/build/picotool/src/picotoolBuild-stamp/picotoolBuild-download.rule
+/home/leaonid/pico/bitdoglab_wifi_v2/build/picotool/src/picotoolBuild-stamp/picotoolBuild-install.rule
+/home/leaonid/pico/bitdoglab_wifi_v2/build/picotool/src/picotoolBuild-stamp/picotoolBuild-mkdir.rule
+/home/leaonid/pico/bitdoglab_wifi_v2/build/picotool/src/picotoolBuild-stamp/picotoolBuild-patch.rule
+/home/leaonid/pico/bitdoglab_wifi_v2/build/picotool/src/picotoolBuild-stamp/picotoolBuild-test.rule
+/home/leaonid/pico/bitdoglab_wifi_v2/build/picotool/src/picotoolBuild-stamp/picotoolBuild-update.rule

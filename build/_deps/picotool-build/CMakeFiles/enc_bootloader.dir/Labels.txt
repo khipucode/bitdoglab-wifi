@@ -1,0 +1,13 @@
+# Target labels
+ enc_bootloader
+# Source files and their labels
+/home/leaonid/pico/bitdoglab_wifi_v2/build/_deps/picotool-build/CMakeFiles/enc_bootloader
+/home/leaonid/pico/bitdoglab_wifi_v2/build/_deps/picotool-build/CMakeFiles/enc_bootloader.rule
+/home/leaonid/pico/bitdoglab_wifi_v2/build/_deps/picotool-build/CMakeFiles/enc_bootloader-complete.rule
+/home/leaonid/pico/bitdoglab_wifi_v2/build/_deps/picotool-build/enc_bootloader/src/enc_bootloader-stamp/enc_bootloader-build.rule
+/home/leaonid/pico/bitdoglab_wifi_v2/build/_deps/picotool-build/enc_bootloader/src/enc_bootloader-stamp/enc_bootloader-configure.rule
+/home/leaonid/pico/bitdoglab_wifi_v2/build/_deps/picotool-build/enc_bootloader/src/enc_bootloader-stamp/enc_bootloader-download.rule
+/home/leaonid/pico/bitdoglab_wifi_v2/build/_deps/picotool-build/enc_bootloader/src/enc_bootloader-stamp/enc_bootloader-install.rule
+/home/leaonid/pico/bitdoglab_wifi_v2/build/_deps/picotool-build/enc_bootloader/src/enc_bootloader-stamp/enc_bootloader-mkdir.rule
+/home/leaonid/pico/bitdoglab_wifi_v2/build/_deps/picotool-build/enc_bootloader/src/enc_bootloader-stamp/enc_bootloader-patch.rule
+/home/leaonid/pico/bitdoglab_wifi_v2/build/_deps/picotool-build/enc_bootloader/src/enc_bootloader-stamp/enc_bootloader-update.rule

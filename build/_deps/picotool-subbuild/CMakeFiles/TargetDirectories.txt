@@ -1,0 +1,3 @@
+/home/leaonid/pico/bitdoglab_wifi_v2/build/_deps/picotool-subbuild/CMakeFiles/picotool-populate.dir
+/home/leaonid/pico/bitdoglab_wifi_v2/build/_deps/picotool-subbuild/CMakeFiles/edit_cache.dir
+/home/leaonid/pico/bitdoglab_wifi_v2/build/_deps/picotool-subbuild/CMakeFiles/rebuild_cache.dir
